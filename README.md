@@ -23,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/jonathan-stats-preview-6vV78B6cZK
+- Live Site URL: https://freedev-group.github.io/jonathan-stats-preview-card-component/
 
 ---
 
